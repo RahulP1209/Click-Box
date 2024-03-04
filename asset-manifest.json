@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Click-Box/static/css/main.efa24a7a.css",
+    "main.js": "/Click-Box/static/js/main.418957a7.js",
+    "static/js/592.7f72a991.chunk.js": "/Click-Box/static/js/592.7f72a991.chunk.js",
+    "index.html": "/Click-Box/index.html",
+    "main.efa24a7a.css.map": "/Click-Box/static/css/main.efa24a7a.css.map",
+    "main.418957a7.js.map": "/Click-Box/static/js/main.418957a7.js.map",
+    "592.7f72a991.chunk.js.map": "/Click-Box/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa24a7a.css",
+    "static/js/main.418957a7.js"
+  ]
+}
